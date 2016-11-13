@@ -8,8 +8,8 @@ style {
 
 .image {
     position: relative;
-    width: 1500px;
-    height: 800px;
+    max-width: 100%;
+    height: auto;
 }
 
 nav {
@@ -30,9 +30,11 @@ li {
 }
 
 .name {
+    font-family: 'Source Sans Pro', sans-serif;
     position: absolute;
     top: 50%;
     width: 100%;
+    color: #EBEBEB;
     text-align: center;
-    font-size: 200px;
+    font-size: 18px;
 }
