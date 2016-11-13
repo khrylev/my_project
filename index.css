@@ -1,11 +1,14 @@
+body {
+    max-width: 1700px;
+}
 style {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 .image {
     position: relative;
-    max-width: 1500;
-    height: 400;
+    max-width: 1500px;
+    height: 400px;
 }
 
 nav {
