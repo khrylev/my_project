@@ -1,16 +1,35 @@
 style {
-font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.image {
+    position: relative;
+    width: 1500px;
+    height: 800px;
+}
+
+nav {
+    position: fixed;
+    width: 300px;
 }
 
 .fbox {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
-  align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
 }
-/*
+
 li { 
-display: inline; 
+    display: inline; 
 }
-*\
+
+.name {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
