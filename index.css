@@ -4,8 +4,10 @@ style {
 
 .image {
     position: relative;
-    max-width: 100%;
-    height: auto;
+    width: 1500px;
+    max-width: 1600px;
+    min-width: 500px;
+    height: 750px;
 }
 
 nav {
