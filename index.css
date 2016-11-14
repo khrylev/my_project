@@ -54,6 +54,7 @@ li a {
     text-align: center;
     color: black;
     padding: 14px 16px;
+    padding-top: 10px;
 }
 
 li a:hover {
