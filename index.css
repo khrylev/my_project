@@ -59,6 +59,7 @@ li {
 }
 
 footer {
-    background-color: #080808;
-}
+    background-color: #333333;
+    color: #ffffff;
+    clear: both;
 }
