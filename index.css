@@ -29,16 +29,34 @@ nav {
     background-color: white;
     color: #080808;
     display: inline-block;
-    width: 100%;
+    max-width: 1280px;
     z-index: 1;
 }
 
-.active {
+a:link {
+    text-decoration: black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #CDD1D1;
+}
+
+a:active {
     background-color: #CDD1D1;
+    text-decoration: underline;
+    color: white;
 }
 
 li { 
     display: inline; 
+    color: black;
+    background-color: white;
+    text-align: left;
 }
 
 #search {
@@ -61,6 +79,7 @@ li {
     margin: 0%;
 	width: 3%;
 	border-radius: 100%;
+	left: 10%;
 }
 
 footer {
@@ -68,6 +87,5 @@ footer {
     color: #ffffff;
     position: absolute;
     width: 100%;
-    text-decoration: none; 
     display: inline-block;
 }
