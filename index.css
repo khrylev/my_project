@@ -29,8 +29,7 @@ nav {
     font-family: 'Source Sans Pro', sans-serif;
     background-color: white;
     color: #080808;
-    display: inline-block;
-    width: 100%;
+    display: inline;
     z-index: 1;
 }
 
@@ -65,9 +64,10 @@ li {
 }
 
 footer {
-    margin: 0%;
     background-color: #080808;
     color: #ffffff;
+    position: absolute;
+    width: 100%;
     text-decoration: none; 
     display: inline-block;
 }
