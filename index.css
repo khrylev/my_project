@@ -64,7 +64,6 @@ li {
 
 .name {
     font-family: 'Source Sans Pro', sans-serif;
-    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -81,7 +80,7 @@ li {
 }
 
 footer {
-    color: #ffffff;
+    background-color: #ffffff;
     width: 100%;
     display: inline-block;
 }
