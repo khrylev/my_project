@@ -70,7 +70,7 @@ li a:active {
     float: right;
 }
 
-.name {
+div .name {
     font-family: 'Source Sans Pro', sans-serif;
     top: 50%;
     left: 50%;
