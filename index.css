@@ -68,14 +68,15 @@ li a:active {
 #search {
     border-radius: 8px;
     float: right;
+    background-color: white;
 }
 
 div .name {
     font-family: 'Source Sans Pro', sans-serif;
     top: 50%;
     left: 50%;
-    position: fixed;
-    transform: translate(-50%, -50%);
+    position: absolute;
+    transform: translate;
     color: #EBEBEB;
     text-shadow: 2px 3px #080808;
     text-align: center;
