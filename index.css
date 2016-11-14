@@ -37,9 +37,9 @@ ul {
     color: black;
     position: fixed;
     top: 2;
-    margin: 0;
+    margin: auto;
     padding: 0;
-    width: 100%;
+    max-width: 1280px;
     height: 50px;
     overflow: hidden;
 }
