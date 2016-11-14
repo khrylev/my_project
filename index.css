@@ -54,6 +54,8 @@ li a {
     text-align: center;
     color: black;
     padding: 14px 16px;
+    resize: both;
+    overflow: auto;
 }
 
 li a:hover {
