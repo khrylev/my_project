@@ -48,14 +48,14 @@ li {
     display: inline-block;
     background-color: white;
     font-size: medium;
+    resize: both;
+    overflow: auto;
 }
 
 li a {
     text-align: center;
     color: black;
     padding: 14px 16px;
-    resize: both;
-    overflow: auto;
 }
 
 li a:hover {
