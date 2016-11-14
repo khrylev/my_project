@@ -51,14 +51,10 @@ a:active {
     color: white;
 }
 
-ul {
-    position: fixed; 
-    overflow: auto;
-}
-
 li { 
     display: inline; 
     color: black;
+    background-color: white;
     text-align: center;
 }
 
