@@ -1,7 +1,6 @@
 body {
 	max-width: 1280px;
 	margin: 0px auto;
-	position: relative;
 }
 
 style {
@@ -65,7 +64,7 @@ li {
 }
 
 footer {
-    background-color: #080808;
+    background-color: black;
     color: #ffffff;
     position: absolute;
     width: 100%;
