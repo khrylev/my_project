@@ -36,7 +36,7 @@ ul {
     background-color: white;
     color: black;
     position: fixed;
-    top: 0;
+    top: 10;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -54,7 +54,6 @@ li a {
     text-align: center;
     color: black;
     padding: 14px 16px;
-    padding-top: 10px;
 }
 
 li a:hover {
