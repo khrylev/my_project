@@ -66,6 +66,7 @@ li {
     font-family: 'Source Sans Pro', sans-serif;
     top: 50%;
     left: 50%;
+    position: absolute;
     transform: translate(-50%, -50%);
     color: #EBEBEB;
     text-shadow: 2px 3px #080808;
