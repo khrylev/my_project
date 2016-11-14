@@ -25,7 +25,13 @@ nav {
     background-color: #F4F2F7;
 }
 
-
+.fbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
 
 li { 
     display: inline; 
