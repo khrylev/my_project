@@ -35,12 +35,17 @@ nav {
 ul {
     background-color: white;
     position: fixed;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
 }
 
 li { 
     display: inline; 
     color: black;
     background-color: white;
+    font-size: medium;
 }
 
 li a {
@@ -64,6 +69,8 @@ li a:active {
 
 #search {
     border-radius: 8px;
+    display: inline;
+    text-align: right;
 }
 
 .name {
