@@ -14,14 +14,6 @@ style {
     height: 750px;
 }
 
-.container {
-  display: -webkit-flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
 nav {
     position: fixed;
     top: 0;
@@ -32,30 +24,34 @@ nav {
     z-index: 1;
 }
 
-a:link {
-    text-decoration: black;
-}
-
-a:visited {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #CDD1D1;
-}
-
-a:active {
-    background-color: #CDD1D1;
-    text-decoration: underline;
-    color: white;
+ul {
+    background-color: white;
+    position: fixed;
 }
 
 li { 
     display: inline; 
     color: black;
     background-color: white;
+}
+
+li a {
+    display: block;
+    color: black;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+    color: #CDD1D1;
+}
+
+li a:active {
+    background-color: #CDD1D1;
+    text-decoration: underline;
+    color: white;
 }
 
 #search {
