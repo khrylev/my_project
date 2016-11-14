@@ -29,7 +29,8 @@ nav {
     font-family: 'Source Sans Pro', sans-serif;
     background-color: white;
     color: #080808;
-    display: inline;
+    display: inline-block;
+    width: 100%;
     z-index: 1;
 }
 
