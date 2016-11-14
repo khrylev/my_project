@@ -48,8 +48,6 @@ li {
     display: inline-block;
     background-color: white;
     font-size: medium;
-    resize: both;
-    overflow: auto;
 }
 
 li a {
