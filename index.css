@@ -25,13 +25,7 @@ nav {
     background-color: #F4F2F7;
 }
 
-.fbox {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-}
+
 
 li { 
     display: inline; 
@@ -42,6 +36,7 @@ li {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
     color: #EBEBEB;
     text-shadow: 2px 3px #080808;
     text-align: center;
