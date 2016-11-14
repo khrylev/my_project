@@ -51,6 +51,14 @@ a:active {
     color: white;
 }
 
+ul {
+    margin: 0;
+    width: 25%;
+    height: 100%; 
+    position: fixed; 
+    overflow: auto;
+}
+
 li { 
     display: inline; 
     color: black;
@@ -81,7 +89,6 @@ li {
 }
 
 footer {
-    background-color: black;
     width: 100%;
     display: inline-block;
 }
