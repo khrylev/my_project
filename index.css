@@ -16,7 +16,7 @@ nav {
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #EBEBEB;
     color: #080808;
-    display: block;
+    display: inline-block;
     width: 100%;
     z-index: 1;
 }
