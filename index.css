@@ -47,3 +47,8 @@ li {
     text-align: center;
     font-size: 20px;
 }
+
+.social-icon img {
+    margin: 0% 3% 0% 0%;
+	width: 5%;
+}
