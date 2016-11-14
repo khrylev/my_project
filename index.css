@@ -1,3 +1,8 @@
+body {
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
 style {
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -59,8 +64,11 @@ li {
 }
 
 footer {
-    background-color: black;
+    margin: 0%;
+    background-color: #080808;
     color: #ffffff;
     clear: both;
+    text-decoration: none; 
+    display: inline-block;
     width: 100%;
 }
