@@ -1,9 +1,6 @@
 * {
     max-width: 1280px;
     margin: 0 auto;
-}
-
-style {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -69,7 +66,6 @@ li a:active {
 }
 
 .name {
-    font-family: 'Source Sans Pro', sans-serif;
     top: 50%;
     left: 50%;
     position: absolute;
