@@ -73,7 +73,7 @@ li a:active {
     top: 50%;
     left: 50%;
     position: relative;
-    transform: translateX(30px);
+    transform: translate(30px);
     color: #EBEBEB;
     text-shadow: 2px 3px #080808;
     text-align: center;
