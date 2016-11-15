@@ -1,7 +1,9 @@
 * {
-    max-width: 1280px;
-    margin: 0 auto;
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    max-width: 1280px;
 }
 
 .image {
@@ -20,6 +22,7 @@
 }*/
 
 nav {
+    margin: 10px;
     position: fixed;
     background-color: white;
     color: #080808;
