@@ -19,7 +19,7 @@
     margin-top: 0px;
     position: relative;
     max-width: 500px;
-    height: 750px;
+    max-height: 1280px;
 }
 
 /*.container {
