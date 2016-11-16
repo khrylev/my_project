@@ -14,13 +14,19 @@
     margin: 0 auto;
 } 
 
+image.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
 
-.image {
+/*.image {
     position: relative;
     max-width: 1280px;
     height: 750px;
     width: 1200px;
 }
+*/
 
 .fool {
     margin-top: 0;
