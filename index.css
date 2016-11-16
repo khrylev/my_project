@@ -15,6 +15,19 @@
 } 
 
 .displayed {
+    position: absolute;
+    top: 330px;
+    left: 50%;
+    transform: translate(-50%,-60%);
+    padding: 0 10px;
+    border: solid 2px;
+    color: #fff;
+    font-size: 100%;
+    font-weight: bold;
+    word-spacing: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px #888888;
+}
     /*display: block;
     margin-left: auto;
     margin-right: auto; */
@@ -30,15 +43,15 @@
     left: 50%;
     transform: translate(-50%,-60%);
     padding: 0 10px; */
-}
 
+/*
 .image {
     position:absolute;
     max-width: 1280px;
     height: 750px;
     width: 1200px;
 }
-
+*/
 
 .fool {
     margin-top: 0;
