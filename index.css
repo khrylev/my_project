@@ -4,6 +4,16 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.carousel-inner > .item > img {
+   margin: 0 auto;
+   max-height: 140px; 
+}
+
+#myCarousel {
+    max-width: 500px;
+    margin: 0 auto;
+} 
+
 .image {
     position: relative;
     max-width: 1280px;
