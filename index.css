@@ -14,10 +14,13 @@
     margin: 0 auto;
 } 
 
+.row {
+   margin-top: auto; 
+}
 .image {
+    margin-top: 0px;
     position: relative;
-    max-width: 1280px;
-    min-width: 500px;
+    max-width: 500px;
     height: 750px;
 }
 
