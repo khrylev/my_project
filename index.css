@@ -16,13 +16,10 @@
 
 
 .image {
-    position: absolute;
+    position: relative;
     max-width: 1280px;
     height: 750px;
     width: 900px;
-    left: 50%;
-    right: 50%;
-    top: 50%;
 }
 
 /*.container {
