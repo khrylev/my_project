@@ -19,10 +19,11 @@
     position: relative;
     max-width: 1280px;
     height: 750px;
-    width: 1000px;
+    width: 1200px;
 }
 
 .fool {
+    margin-top: 0;
     background-color: black;
     color: white;
 }
