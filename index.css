@@ -14,11 +14,14 @@
     margin: 0 auto;
 } 
 
-image.displayed {
-    display: block;
+.displayed {
+   /* display: block;
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto; */
     height: 750px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 }
 
 /*.image {
@@ -33,6 +36,7 @@ image.displayed {
     margin-top: 0;
     background-color: black;
     color: white;
+    padding: 120px;
 }
 
 /*.container {
@@ -94,6 +98,7 @@ li a:active {
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
+    margin-right: -50%;
     color: #EBEBEB;
     text-shadow: 2px 3px #080808;
     text-align: center;
