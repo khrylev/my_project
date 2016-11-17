@@ -16,7 +16,6 @@
 
 .displayed {
     height: 750px;
-    max-width: 100px;
     width: 500px;
     justify-content: center;
     display: flex;
