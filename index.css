@@ -115,11 +115,11 @@ li a:active {
     position: absolute;
     transform: translate(-50%, -50%);
     margin-right: -50%;
-    color: #080808;
-    text-shadow: 2px 3px #fff;
+    color: #fff;
+    text-shadow: 2px 3px #080808;
     text-align: center;
-    font-size: 50px;
-    word-spacing: 5px;
+    font-size: 35px;
+    word-spacing: 4px;
 }
 
 .social-icon img {
