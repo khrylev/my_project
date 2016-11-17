@@ -124,11 +124,11 @@ li a:active {
 }
 
 .social-icon img {
-	width: 20px;
-	margin: 20px 5px;
 	display: inline;
     display: flex;
     justify-content: center; 
+    width: 100%;
+    height: auto;
 }
 
 footer {
