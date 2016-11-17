@@ -116,7 +116,7 @@ li a:active {
     transform: translate(-50%, -50%);
     margin-right: -50%;
     color: #080808;
-    /*text-shadow: 3px 4px #080808; */
+    text-shadow: 3px 4px #fff; 
     text-align: center;
     font-size: 35px;
     word-spacing: 4px;
@@ -126,7 +126,7 @@ li a:active {
 	display: inline;
     display: flex;
     justify-content: center; 
-    width: 100%;
+    width: 30%;
     height: auto;
 }
 
