@@ -71,10 +71,9 @@ article {
     text-align: center;
     width: 60%;
     background-color: #fff;
-    word-spacing: 5px;
+    word-spacing: 20px;
     justify-content: center;
     left: 50%;
-    padding: 30px;
 }
     
 #main_text h1 {
