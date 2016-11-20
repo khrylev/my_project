@@ -49,15 +49,15 @@ nav a {
 }
 
 .sectOne {
-    background-image: url("..main.jpg");
+    background-image: url("img/main.jpg");
 }
 
 .sectTwo {
-    background-image: url("..road.jpg");
+    background-image: url("img/road.jpg");
 }
 
 .sectThree {
-    background-image: url("..forest.jpg");
+    background-image: url("img/forest.jpg"); 
 }
 
 #first {
