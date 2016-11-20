@@ -55,6 +55,8 @@ a:hover {
     width: 250px;
     justify-content: center;
     align-items: center;
+    margin-left: 200px;
+    overflow: auto;
 }
 
 #main_text {
