@@ -1,6 +1,9 @@
 *{
     max-width: 1280px;
     margin: 0px auto;
+}
+
+body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
 }
 /*
