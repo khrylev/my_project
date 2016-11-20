@@ -62,11 +62,13 @@ article {
     width: 250px;
     justify-content: center;
     align-items: center;
-    margin-left: 180px;
+    margin-left: 150px;
     overflow: auto;
 }
 
 #main_text {
+    margin-top: 50px;
+    margin-bottom: 50px;
     display: block;
     margin: 0 auto;
     text-align: center;
