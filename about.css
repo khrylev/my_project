@@ -1,0 +1,32 @@
+*{
+    max-width: 1280px;
+    margin: 0px auto;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0,0,0,.5);
+    z-index: 99;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 30px;
+    line-height: 50px;
+}
+
+a:hover {
+    color: #CDD1D1;
+}
