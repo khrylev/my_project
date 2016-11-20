@@ -96,11 +96,12 @@ footer p {
 }
 
 #social img {
+    display: inline;
     display: flex;
     justify-content: flex-end; 
-    flex-direction: row;
+    flex-flow: row wrap;
     align-content: space-between;
     height: 30px;
     width: 30px;
-    border-radius: 100%;
+    
 }
