@@ -104,4 +104,8 @@ footer p {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
+    margin: 5px 45px;
+    -ms-flex-pack: distribute;
+    height: 35px;
+    width: 35px;
 }
