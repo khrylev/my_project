@@ -52,17 +52,17 @@ nav a {
 
 .sectOne {
     background-image: url(main.jpg);
-    height: 500px;
+    height: 350px;
 }
 
 .sectTwo {
     background-image: url(road.jpg);
-    height: 500px;
+    height: 350px;
 }
 
 .sectThree {
     background-image: url(forest.jpg); 
-    height: 500px;
+    height: 350px;
 }
 
 #first {
@@ -80,6 +80,7 @@ nav a {
 
 footer {
     max-width: 1280px;
+    width: auto;
     display: inline-block;
     clear: both;
     background-color: #000000;
