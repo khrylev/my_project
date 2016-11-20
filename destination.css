@@ -41,6 +41,7 @@ nav a {
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .subSection {
@@ -49,15 +50,15 @@ nav a {
 }
 
 .sectOne {
-    background-image: url("main.jpg");
+    background-image: url(main.jpg);
 }
 
 .sectTwo {
-    background-image: url("road.jpg");
+    background-image: url(road.jpg);
 }
 
 .sectThree {
-    background-image: url("forest.jpg"); 
+    background-image: url(forest.jpg); 
 }
 
 #first {
