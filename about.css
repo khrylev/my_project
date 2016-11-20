@@ -57,22 +57,20 @@ a:hover {
     align-items: center;
 }
 
-
-.sect {
-    height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+#main_text {
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+    background-color: #fff;
 }
 
-.subSection {
-    height: 50%;
-    padding: 40px;
+#main_text h1 {
+    font-size: 300%;
+    font-weight: bold;
 }
 
-.sectOne {
-    background-image: url();
-    height: 350px;
+#main_text p {
+    font-size: 200%;
 }
 
 footer {
