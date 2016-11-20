@@ -79,12 +79,11 @@ nav a {
 }
 
 footer {
-    max-width: 1280px;
-    width: auto;
     display: inline-block;
     clear: both;
     background-color: #000000;
     margin-bottom: 0px;
+    width: 100%;
 }
 
 footer p {
@@ -93,4 +92,5 @@ footer p {
     margin: 0px;
     font-size: 100%;
     padding: 2px; 
+    justify-content: center;
 }
