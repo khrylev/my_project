@@ -64,9 +64,10 @@ a:hover {
     height: 350px;
 }
 
-.sectThree {
+#back {
     background-image: url(forest.jpg); 
     height: 350px;
+    justify-content: center;
 }
 
 #first {
