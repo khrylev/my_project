@@ -3,14 +3,61 @@
     margin: 0px auto;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
 }
-/*
+
 #background_picture{
     width: 100%;
     height: auto;
     
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 20px;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0,0,0,.5);
+    z-index: 99;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 30px;
+    line-height: 50px;
+}
+
+.sect {
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.subSection {
+    height: 50%;
+    background-color: bisque;
+}
+
+.sectOne {
+    background-image: url(main.jpg);
+}
+
+.sectTwo {
+    background-image: url(road.jpg);
+}
+
+.sectThree {
+    background-image: url(forest.jpg);
 }
 
 #first {
@@ -25,7 +72,9 @@ body {
     text-align: center;
     text-shadow: 1px 1px 2px #000000;
 }
-*/
+
+
+/*
 #nav {
     width: 100%;
     height: 200px;
@@ -41,7 +90,7 @@ body {
     margin-right: auto;
     margin-top: 100px;
     opacity: 0.7;
-    filter: alpha(opacity=70); /* IE8 earlier */
+    filter: alpha(opacity=70); /* IE8 earlier 
 }
 
 #nav_wrapper ul li {
@@ -61,5 +110,6 @@ body {
     background-color:  #e1e8e3;
     transition: all 0.45s;
     opacity: 0.9;
-    filter: alpha(opacity=90); /* IE8 earlier */
+    filter: alpha(opacity=90); /* IE8 earlier
 }
+*/
