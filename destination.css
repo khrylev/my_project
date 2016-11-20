@@ -37,6 +37,10 @@ nav a {
     line-height: 50px;
 }
 
+a:hover {
+    color: #CDD1D1;
+}
+
 .sect {
     height: 100%;
     background-size: cover;
@@ -100,6 +104,7 @@ footer p {
     flex-direction: row;
     margin-left: 50px;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
     height: 35px;
     width: 35px;
