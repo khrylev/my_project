@@ -68,6 +68,13 @@ a:hover {
     background-image: url(forest.jpg); 
     height: 350px;
     justify-content: center;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%,-60%);
+    padding: 0 10px;
+    color: #fff;
+    font-size: 35px;
+    word-spacing: 5px;
 }
 
 #first {
