@@ -96,10 +96,10 @@ footer p {
 }
 
 #social img {
-	display: block;
     display: flex;
     justify-content: flex-end; 
     flex-direction: row;
+    align-content: space-between;
     height: 30px;
     width: 30px;
     border-radius: 100%;
