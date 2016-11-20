@@ -52,7 +52,7 @@ nav a {
 
 .sectOne {
     background-image: url(main.jpg);
-    height: 100%;
+    height: 500px;
 }
 
 .sectTwo {
@@ -62,7 +62,7 @@ nav a {
 
 .sectThree {
     background-image: url(forest.jpg); 
-    height: 100%;
+    height: 500px;
 }
 
 #first {
@@ -78,43 +78,18 @@ nav a {
     text-shadow: 1px 1px 2px #000000;
 }
 
-
-/*
-#nav {
-    width: 100%;
-    height: 200px;
-    background: url(main.jpg);
-    background-size: cover;
+footer {
+    max-width: 1280px;
+    display: inline-block;
+    clear: both;
+    background-color: #000000;
+    margin-bottom: 0px;
 }
 
-#nav_wrapper {
-    height: 100px;
-    width: 700px;
-    background: #377d7a;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    opacity: 0.7;
-    filter: alpha(opacity=70); /* IE8 earlier 
+footer p {
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    font-size: 100%;
+    padding: 2px; 
 }
-
-#nav_wrapper ul li {
-    list-style: none;
-    display: inline;
-    font-weight: bold;
-    padding: 20px;
-}
-
-#nav_wrapper a {
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-}
-
-#nav_wrapper ul li:hover {
-    background-color:  #e1e8e3;
-    transition: all 0.45s;
-    opacity: 0.9;
-    filter: alpha(opacity=90); /* IE8 earlier
-}
-*/
