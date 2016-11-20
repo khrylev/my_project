@@ -100,5 +100,7 @@ footer p {
     display: flex;
     justify-content: flex-end; 
     flex-direction: row;
-    margin: 5px 45px;
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
 }
