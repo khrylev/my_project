@@ -54,6 +54,7 @@ article {
     justify-content: center;
     padding-bottom: 20px;
     padding-top: 20px;
+    margin: 50px 50px 50px 50px;
 }
 
 #img {
@@ -68,7 +69,6 @@ article {
 }
 
 #main_text {
-    margin: 50px 50px 50px 50px;
     display: block;
     text-align: center;
     width: 60%;
