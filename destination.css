@@ -64,12 +64,9 @@ a:hover {
     height: 350px;
 }
 
-#back {
+.sectThree {
     background-image: url(forest.jpg); 
     height: 350px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
 }
 
 .text {
