@@ -62,7 +62,7 @@ article {
     width: 250px;
     justify-content: center;
     align-items: center;
-    margin-left: 200px;
+    margin-left: 180px;
     overflow: auto;
 }
 
@@ -71,7 +71,6 @@ article {
     text-align: center;
     width: 60%;
     background-color: #fff;
-    word-spacing: 20px;
     justify-content: center;
     left: 50%;
 }
@@ -82,7 +81,7 @@ article {
 }
 
 #main_text p {
-    font-size: 100%;
+    font-size: 130%;
 }
 
 footer {
