@@ -86,9 +86,10 @@ a:hover {
     justify-content: center;
     padding: 8px 5px;
     border-radius: 2px;
-    margin-left: 500px;
+    margin-left: 510px;
     font-size: 15px;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
 .button {
@@ -98,8 +99,9 @@ a:hover {
     font-size: 20px;
     padding: 8px 14px;
     border-radius: 2px;
-    margin-left: 500px;
+    margin-left: 510px;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
 #first {
