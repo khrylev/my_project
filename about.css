@@ -74,7 +74,7 @@ article {
     word-spacing: 5px;
     justify-content: center;
     left: 50%;
-    top: 200%;
+    padding: 30px;
 }
     
 #main_text h1 {
