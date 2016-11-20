@@ -96,16 +96,16 @@ footer p {
 }
 
 #social img {
-    display: inline;
+   display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: flex-end; 
-    flex-flow: row wrap;
-    align-content: space-around;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
+    flex-direction: row;
     margin: 5px 45px;
     -ms-flex-pack: distribute;
+    justify-content: space-around;
     height: 35px;
     width: 35px;
 }
