@@ -80,6 +80,7 @@ a:hover {
     color: #fff;
     font-size: 20px;
     word-spacing: 5px;
+    text-shadow: 1px 1px 2px #000000;
 }
 
 #first {
