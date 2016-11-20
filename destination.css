@@ -67,6 +67,12 @@ a:hover {
 #back {
     background-image: url(forest.jpg); 
     height: 350px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.text {
     justify-content: center;
     text-align: center;
     left: 50%;
