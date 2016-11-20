@@ -88,9 +88,10 @@ a:hover {
      background-color: rgba(0,0,0,.5);
      color: #fff;
      text-align: center;
-     font-size: 12px;
+     font-size: 35px;
      padding: 10px 24px;
      border-radius: 2px;
+     margin-left: 20px;
 }
 
 #first {
