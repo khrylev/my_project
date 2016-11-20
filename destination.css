@@ -95,10 +95,10 @@ footer p {
     justify-content: center;
 }
 
-.social-icon img {
-	display: inline;
+#social img {
+	display: block;
     display: flex;
     justify-content: flex-end; 
     flex-direction: row;
-    height: auto;
+    margin: 5px 45px;
 }
