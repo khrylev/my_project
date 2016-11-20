@@ -62,8 +62,12 @@ a:hover {
     text-align: center;
     width: 60%;
     background-color: #fff;
+    word-spacing: 5px;
+    justify-content: center;
+    left: 50%;
+    top: 200%;
 }
-
+    
 #main_text h1 {
     font-size: 150%;
     font-weight: bold;
