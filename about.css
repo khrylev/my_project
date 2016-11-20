@@ -11,6 +11,11 @@ body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
 }
 
+#background_picture{
+    width: 100%;
+    height: auto;
+}
+
 nav {
     position: fixed;
     width: 100%;
