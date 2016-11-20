@@ -56,3 +56,38 @@ a:hover {
     justify-content: center;
     align-items: center;
 }
+
+
+.sect {
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.subSection {
+    height: 50%;
+    padding: 40px;
+}
+
+.sectOne {
+    background-image: url();
+    height: 350px;
+}
+
+footer {
+    display: inline-block;
+    clear: both;
+    background-color: #000000;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    font-size: 100%;
+    padding: 2px; 
+    justify-content: center;
+}
