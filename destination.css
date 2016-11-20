@@ -47,18 +47,22 @@ nav a {
 .subSection {
     height: 50%;
     background-color: bisque;
+    padding: 40px;
 }
 
 .sectOne {
     background-image: url(main.jpg);
+    padding: 40px;
 }
 
 .sectTwo {
     background-image: url(road.jpg);
+    padding: 40px;
 }
 
 .sectThree {
     background-image: url(forest.jpg); 
+    padding: 40px;
 }
 
 #first {
