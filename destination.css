@@ -53,19 +53,20 @@ nav a {
 .sectOne {
     background-image: url(main.jpg);
     padding: 40px;
-    background-size: 100%;
+    margin: 40px;
 }
 
 .sectTwo {
     background-image: url(road.jpg);
     padding: 40px;
-    background-size: 100%;
+    margin: 40px;
+    
 }
 
 .sectThree {
     background-image: url(forest.jpg); 
     padding: 40px;
-    background-size: 100%;
+    margin: 40px;
 }
 
 #first {
