@@ -82,6 +82,7 @@ a:hover {
 }
 
 #email {
+    display: inline-block;
     text-align: center;
     justify-content: center;
     padding: 8px 5px;
@@ -94,11 +95,13 @@ a:hover {
 }
 
 .button {
+    display: inline-block;
     background-color: rgba(0,0,0,.5);
     color: #fff;
     text-align: center;
     font-size: 20px;
-    padding: 10px 14px;
+    margin: 4px 2px;
+    padding: 14px 40px;
     border-radius: 2px;
     margin-left: 510px;
     margin-right: auto;
