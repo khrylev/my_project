@@ -70,15 +70,15 @@ a:hover {
 }
 
 .text {
+    display: block;
     justify-content: center;
     text-align: center;
-    left: 50%;
-    top: 200%;
     padding: 0 10px;
     color: #fff;
     font-size: 20px;
     word-spacing: 5px;
     text-shadow: 1px 1px 2px #000000;
+    margin-top: 40px;
 }
 
 #email {
@@ -86,7 +86,7 @@ a:hover {
     justify-content: center;
     padding: 8px 5px;
     border-radius: 2px;
-    margin-left: 20%;
+    margin-left: 35%;
     font-size: 15px;
     flex-direction: row;
 }
@@ -98,7 +98,6 @@ a:hover {
     font-size: 20px;
     padding: 8px 20px;
     border-radius: 2px;
-    /*margin-left: 510px;*/
     flex-direction: row;
 }
 
