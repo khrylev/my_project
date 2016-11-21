@@ -70,7 +70,7 @@ a:hover {
 }
 
 .text {
-    display: block;
+    display: flex;
     justify-content: center;
     text-align: center;
     padding: 0 10px;
@@ -78,7 +78,6 @@ a:hover {
     font-size: 20px;
     word-spacing: 5px;
     text-shadow: 1px 1px 2px #000000;
-    margin-top: 40px;
 }
 
 #email {
