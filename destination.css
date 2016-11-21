@@ -137,9 +137,8 @@ footer p {
 #social img {
     display: flex;
     flex-direction: row;
-    margin-left: 20%;
+    margin-left: 50%;
     justify-content: center;
-    flex-wrap: wrap;
     align-items: center;
     height: 35px;
     width: 35px;
