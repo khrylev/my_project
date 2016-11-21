@@ -79,16 +79,17 @@ article {
     background-color: #fff;
     justify-content: center;
     margin-left: 20%;
-    background-color: bisque;
 }
     
 #main_text h1 {
     font-size: 150%;
     font-weight: bold;
+    background-color: bisque;
 }
 
 #main_text p {
     font-size: 130%;
+    background-color: bisque;
 }
 
 footer {
