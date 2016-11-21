@@ -64,8 +64,7 @@ article {
     margin-bottom: 50px;
     justify-content: center;
     align-items: center;
-    margin-left: 150px;
-    overflow: auto;
+    transform: translate(-50%,-60%);
 }
 
 #main_text {
@@ -75,6 +74,7 @@ article {
     background-color: #fff;
     justify-content: center;
     left: 50%;
+    margin-left: 50%;
 }
     
 #main_text h1 {
