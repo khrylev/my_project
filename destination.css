@@ -53,11 +53,11 @@ a:hover {
     background-color: bisque;
 }
 
-p {
+p .subSection {
     display: block;
     text-align: center;
     width: 60%;
-    background-color: #fff;
+    color: #fff;
     justify-content: center;
     margin-left: 20%;
 }
