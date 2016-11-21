@@ -1,6 +1,7 @@
 *{
     max-width: 1280px;
     margin: 0px auto;
+    background-color: bisque;
 }
 
 html, body {
@@ -9,7 +10,6 @@ html, body {
 
 body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
-    background-color: bisque;
 }
 
 #background_picture {
@@ -84,12 +84,10 @@ article {
 #main_text h1 {
     font-size: 150%;
     font-weight: bold;
-    background-color: bisque;
 }
 
 #main_text p {
     font-size: 130%;
-    background-color: bisque;
 }
 
 footer {
