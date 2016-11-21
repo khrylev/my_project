@@ -86,7 +86,7 @@ a:hover {
     justify-content: center;
     padding: 8px 5px;
     border-radius: 2px;
-    margin-left: 510px;
+    margin-left: 500px;
     font-size: 15px;
     flex-direction: row;
 }
@@ -96,7 +96,7 @@ a:hover {
     color: #fff;
     text-align: center;
     font-size: 20px;
-    padding: 20px 60px;
+    padding: 8px 20px;
     border-radius: 2px;
     /*margin-left: 510px;*/
     flex-direction: row;
