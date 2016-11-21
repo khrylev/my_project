@@ -64,7 +64,7 @@ article {
     margin-bottom: 50px;
     justify-content: center;
     align-items: center;
-    transform: translate(-50%,-60%);
+    margin-left: 20%;
 }
 
 #main_text {
@@ -73,8 +73,7 @@ article {
     width: 60%;
     background-color: #fff;
     justify-content: center;
-    left: 50%;
-    margin-left: 50%;
+    margin-left: 20%;
 }
     
 #main_text h1 {
