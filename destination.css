@@ -64,12 +64,12 @@ p .subSection { ????
 
 .sectOne {
     background-image: url(main.jpg);
-    height: 350px;
+    height: 300px;
 }
 
 .sectTwo {
     background-image: url(road.jpg);
-    height: 350px;
+    height: 300px;
 }
 
 .sectThree {
