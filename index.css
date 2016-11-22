@@ -9,7 +9,6 @@ html, body {
 
 body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
-    background-color: bisque;
 }
 
 #background_picture{
@@ -58,7 +57,7 @@ a:hover {
 }
 
 main {
-    background-color: grey;
+    background-color:  bisque;
 }
 
 #space {
