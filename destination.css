@@ -123,6 +123,7 @@ h3 .div {
 .country {
     border-radius: 100%;
     justify-content: space-around;
+    margin: 5px;
 }
 
 footer {
