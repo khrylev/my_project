@@ -55,15 +55,21 @@ a:hover {
     width: 60%;
     justify-content: center;
     margin-left: 20%;
+    padding: 30px;
 }
     
 #main_text h1 {
-    font-size: 150%;
+    font-size: 200%;
     font-weight: bold;
 }
 
 #main_text p {
     font-size: 130%;
+}
+
+section {
+    justify-content: center;
+    margin-left: 35%;
 }
 
 footer {
