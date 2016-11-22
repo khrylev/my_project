@@ -51,6 +51,7 @@ a:hover {
 
 main {
     background-color: bisque;
+    margin-bottom: 0;
 }
 
 article {
