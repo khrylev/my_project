@@ -9,6 +9,7 @@ html, body {
 
 body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
+    background-color: bisque;
 }
 
 #background_picture {
@@ -69,7 +70,8 @@ a:hover {
 
 section {
     justify-content: center;
-    margin-left: 35%;
+    margin-left: 30%;
+    margin-bottom: 10%;
 }
 
 footer {
