@@ -122,7 +122,7 @@ p .subSection { ????
 
 h3 .div {
   -vendor-animation-duration: 0.5s;
-  -vendor-animation-delay: 1s;
+  -vendor-animation-delay: 0.5s;
   -vendor-animation-iteration-count: 1;
 }
 
