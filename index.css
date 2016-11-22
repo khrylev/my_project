@@ -116,15 +116,20 @@ a:hover {
 }
 
 h3 .div {
-  -vendor-animation-duration: 0.5s;
-  -vendor-animation-delay: 0.5s;
-  -vendor-animation-iteration-count: 1;
+  -webkit-animation-duration: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  -webkit-animation-iteration-count: 1;
 }
 
 .country {
     border-radius: 100%;
     justify-content: space-around;
     margin: 5px;
+}
+
+.country:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 footer {
