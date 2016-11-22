@@ -72,6 +72,11 @@ article {
     margin-right: 20%;
 }
 
+#img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 #main_text {
     display: block;
     text-align: center;
