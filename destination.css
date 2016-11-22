@@ -120,35 +120,10 @@ h3 .div {
   -vendor-animation-iteration-count: 1;
 }
 
-/*
-footer {
-    display: inline-block;
-    clear: both;
-    background-color: #000000;
-    margin-bottom: 0px;
-    width: 100%;
+.country {
+    border-radius: 100%;
+    justify-content: space-around;
 }
-
-footer p {
-    color: #fff;
-    text-align: center;
-    margin: 0px;
-    font-size: 100%;
-    padding: 2px; 
-    justify-content: center;
-}
-
-#social img {
-    display: flex;
-    display: inline-block;
-    flex-direction: row;
-    margin-left: 50%;
-    justify-content: center;
-    align-items: center;
-    height: 35px;
-    width: 35px;
-}
-*/
 
 footer {
     width: 100%;
