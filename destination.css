@@ -77,12 +77,6 @@ p .subSection { ????
     height: 250px;
 }
 
-.animated {
-    -vendor-animation-duration: 1s;
-    -vendor-animation-delay: 2s;
-    -vendor-animation-iteration-count: 1;
-}
-
 .text {
     justify-content: center;
     text-align: center;
