@@ -87,6 +87,12 @@ p .subSection { ????
     text-shadow: 1px 1px 2px #000000;
 }
 
+.animated {
+    -webkit-animation-duration: 3s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: 1;
+}
+
 #email {
     text-align: center;
     justify-content: center;
