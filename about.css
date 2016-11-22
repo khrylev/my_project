@@ -9,7 +9,6 @@ html, body {
 
 body {
     font-family: 'Quattrocento Sans', sans-serif, 'Droid Sans', sans-serif;
-    background-color: bisque;
 }
 
 #background_picture {
@@ -58,6 +57,7 @@ article {
     padding-bottom: 20px;
     padding-top: 20px;
     margin: 50px 50px 50px 50px;
+    background-color: bisque;
 }
 
 #img {
