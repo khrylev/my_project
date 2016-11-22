@@ -57,13 +57,16 @@ a:hover {
     padding: 30px;
 }
 
+main {
+    background-color: grey;
+}
+
 #space {
     position: absolute;
     transform: translate(-50%,-60%);
     justify-content: center;
     text-align: center;
     color: #fff;
-    background-color: grey;
     padding: 20px;
     font-size: 25px;
     word-spacing: 5px;
